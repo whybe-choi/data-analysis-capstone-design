@@ -1,0 +1,10 @@
+FastAPI
+konlpy
+langchain-community==0.3.5
+langchain-huggingface==0.1.2
+langchain-qdrant
+rank_bm25
+sentence-transformers==3.2.1
+streamlit
+transformers==4.45.0
+torch==2.3.1
